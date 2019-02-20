@@ -53,11 +53,8 @@
   column-count: 1;
   }
   
-  .col-1, .col-2, .col-3 {
-    width: 100%;
-    margin: 0;
-    float: none;
-  }
+  [class*="col-"] {
+  margin-left: 0%;
   
   .border-right {
     border-right: 0;
