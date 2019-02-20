@@ -55,8 +55,9 @@
   
   [class*="col-"] {
   margin-left: 0%;
+  }
   
-  .border-right {
+  body {
     border-right: 0;
   }
   
